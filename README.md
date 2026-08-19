@@ -1,116 +1,254 @@
-# GitHub Profile README - Abdel Muwaffaq Nouri
+````markdown
+<div align="center">
 
-```markdown
-# Hi there, I'm Abdel Muwaffaq Nouri 👋
+# Hi, I'm Abdel Muwaffaq Nouri 👋
 
-### Informatics Engineering Student | Full Stack Developer | Mobile Developer
+### Informatics Engineering Student · Full Stack Developer · Mobile Developer
 
-I am an Informatics Engineering student passionate about building web applications, mobile applications, and AI-powered solutions. I enjoy turning ideas into real products that solve practical problems and provide meaningful user experiences.
+<p>
+  <a href="https://github.com/muwaffaqnabdel">
+    <img src="https://img.shields.io/github/followers/muwaffaqnabdel?label=Followers&style=flat-square&logo=github" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/muwaffaqnabdel">
+    <img src="https://komarev.com/ghpvc/?username=muwaffaqnabdel&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views">
+  </a>
+</p>
+
+<p>
+  <em>Building useful digital solutions through code, creativity, and continuous learning.</em>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 D4 Informatics Engineering Student
-- 💻 Interested in Web Development, Mobile Development, and Artificial Intelligence
-- 🌱 Currently learning Laravel, Flutter, Machine Learning, and Progressive Web Apps (PWA)
-- 🏆 Developing digital solutions for competitions, education, and business
-- 📍 Indonesia
+I'm an **Informatics Engineering student** who enjoys turning ideas into functional digital products.
+
+My interests are mainly around:
+
+- 🌐 Web Development
+- 📱 Mobile Application Development
+- 🤖 Artificial Intelligence & Machine Learning
+- ⚡ Progressive Web Applications
+- 🎮 Game Development
+- 🗄️ Database & Backend Development
+
+I enjoy working on projects that combine **technology, real-world problems, and user experience**.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Languages
 
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,dart,javascript,html,css,cs" />
+</p>
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### Frameworks & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,flask,bootstrap" />
+</p>
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,unity,postman" />
+</p>
+
+### AI / Machine Learning
+
+```text
+YOLOv8
+Machine Learning
+Natural Language Processing
+Computer Vision
+TF-IDF
+Word2Vec / FastText
+IndoBERT
+Scikit-learn
+PyTorch
+````
 
 ---
 
-## 🌟 Featured Projects
+# 🚀 Featured Projects
 
-### 🏆 Paskibra Competition Management System
-Progressive Web Application (PWA) for managing Paskibra competitions, including participant registration, validation workflow, judging, scoring, and automatic feedback generation.
+## 🏆 Paskibra Competition System
 
-**Tech Stack:** Laravel, MySQL, PWA
+A web-based competition management system designed to support the implementation of **Paskibra competitions**, from participant registration to judging and scoring.
 
----
+### Key Features
 
-### 🍰 LaliOmah
-Mobile application for selling traditional Indonesian snacks online. Features product catalog, ordering system, customer management, and location tracking.
+* Participant registration
+* Document validation
+* Competition flow management
+* Judge management
+* Custom scoring criteria
+* Automatic score calculation
+* Judge scoring system
+* Validation workflow
+* Automatic feedback generation
+* Progressive Web App (PWA)
 
-**Tech Stack:** Flutter, Dart, Firebase
-
----
-
-### 🤖 Bunda Care
-AI-powered nutrition assistant for mothers and toddlers. Includes food scanning, nutrition analysis, menu recommendations, and AI chatbot support.
-
-**Tech Stack:** Python, Flask, YOLOv8, Machine Learning
-
----
-
-### 🏎 Racing Racer 3D
-Android racing game featuring arcade-style gameplay and time-attack challenges.
-
-**Tech Stack:** Unity, C#
+**Tech:** `Laravel` `PHP` `MySQL` `PWA` `NLP`
 
 ---
 
-### 💼 HiringBase
-Web-based platform designed to connect job seekers and opportunities through a modern recruitment system.
+## 🍰 LaliOmah
 
-**Tech Stack:** Laravel, MySQL
+A mobile application for selling **traditional Indonesian snacks and cakes online**.
 
----
+The application focuses on providing a simple digital ordering experience while helping small-scale food businesses manage their products and customers.
 
-## 📊 GitHub Statistics
+### Key Features
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muwaffaqnabdel&show_icons=true)
+* Product catalog
+* Product details & pricing
+* Shopping / ordering flow
+* Customer data
+* Location tracking
+* Mobile-first interface
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muwaffaqnabdel&layout=compact)
-
----
-
-## 🎯 Current Goals
-
-- Master Laravel Ecosystem
-- Build Production-Ready Flutter Applications
-- Explore AI Integration in Web & Mobile Apps
-- Contribute to Open Source Projects
-- Develop Scalable Full Stack Applications
+**Tech:** `Flutter` `Dart` `MySQL`
 
 ---
 
-## 📫 Connect With Me
+## 🤖 Bunda Care
 
-- Instagram: @abdellmuwaffaq_
-- GitHub: https://github.com/muwaffaqnabdel
+An AI-powered application focused on **nutrition analysis and recommendations**.
+
+The project combines machine learning and application development to provide nutritional information and recommendations through an easy-to-use interface.
+
+### Key Features
+
+* Food scanning
+* Food ingredient detection
+* Nutrition analysis
+* Menu recommendations
+* AI chatbot
+* Machine learning integration
+
+**Tech:** `Python` `Flask` `YOLOv8` `Machine Learning` `Computer Vision`
 
 ---
 
-### ✨ Favorite Quote
+## 🏎️ Racing Racer 3D
 
-> "Keep learning, keep building, and let your projects speak for your skills."
+An arcade-style **3D racing game** designed for Android.
 
+The game focuses on time-attack gameplay, vehicle control, and an engaging racing experience.
+
+### Features
+
+* 3D racing environment
+* Arcade driving mechanics
+* Time-attack gameplay
+* Vehicle control
+* Android build
+
+**Tech:** `Unity` `C#`
+
+---
+
+## 💼 HiringBase
+
+A web-based recruitment platform designed to connect job seekers with employment opportunities through a structured digital recruitment system.
+
+**Tech:** `PHP` `Laravel` `MySQL`
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=muwaffaqnabdel&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muwaffaqnabdel&layout=compact&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=muwaffaqnabdel&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+[![Abdel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muwaffaqnabdel\&hide_border=true)](https://github.com/muwaffaqnabdel)
+
+</div>
+
+---
+
+# 🎯 Currently
+
+```text
+Learning      → Laravel & Advanced Flutter
+Exploring     → AI Integration & NLP
+Building      → Web, Mobile & PWA Applications
+Improving     → Software Architecture & UI/UX
+Goal          → Build scalable and useful digital products
+```
+
+---
+
+# 💡 What I Like Building
+
+```text
+Web Applications
+        +
+Mobile Applications
+        +
+Artificial Intelligence
+        +
+Creative Digital Products
+        ↓
+   Useful Solutions
+```
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/muwaffaqnabdel">
+  <img src="https://img.shields.io/badge/GitHub-muwaffaqnabdel-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/abdellmuwaffaq_">
+  <img src="https://img.shields.io/badge/Instagram-@abdellmuwaffaq_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Keep learning. Keep building. Keep improving."
+
+⭐ Thanks for visiting my profile!
+
+</div>
 ```

@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Hi, I'm Abdel Muwaffaq Nouri 👋
@@ -28,12 +27,12 @@ I'm an **Informatics Engineering student** who enjoys turning ideas into functio
 
 My interests are mainly around:
 
-- 🌐 Web Development
-- 📱 Mobile Application Development
-- 🤖 Artificial Intelligence & Machine Learning
-- ⚡ Progressive Web Applications
-- 🎮 Game Development
-- 🗄️ Database & Backend Development
+* 🌐 Web Development
+* 📱 Mobile Application Development
+* 🤖 Artificial Intelligence & Machine Learning
+* ⚡ Progressive Web Applications
+* 🎮 Game Development
+* 🗄️ Database & Backend Development
 
 I enjoy working on projects that combine **technology, real-world problems, and user experience**.
 
@@ -67,17 +66,15 @@ I enjoy working on projects that combine **technology, real-world problems, and 
 
 ### AI / Machine Learning
 
-```text
-YOLOv8
-Machine Learning
-Natural Language Processing
-Computer Vision
-TF-IDF
-Word2Vec / FastText
-IndoBERT
-Scikit-learn
-PyTorch
-````
+* YOLOv8
+* Machine Learning
+* Natural Language Processing
+* Computer Vision
+* TF-IDF
+* Word2Vec / FastText
+* IndoBERT
+* Scikit-learn
+* PyTorch
 
 ---
 
@@ -194,7 +191,11 @@ A web-based recruitment platform designed to connect job seekers with employment
 
 <div align="center">
 
-[![Abdel's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muwaffaqnabdel\&hide_border=true)](https://github.com/muwaffaqnabdel)
+<a href="https://github.com/muwaffaqnabdel">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muwaffaqnabdel&hide_border=true" />
+
+</a>
 
 </div>
 
@@ -202,29 +203,30 @@ A web-based recruitment platform designed to connect job seekers with employment
 
 # 🎯 Currently
 
-```text
-Learning      → Laravel & Advanced Flutter
-Exploring     → AI Integration & NLP
-Building      → Web, Mobile & PWA Applications
-Improving     → Software Architecture & UI/UX
-Goal          → Build scalable and useful digital products
-```
+* 📚 Learning **Laravel & Advanced Flutter**
+* 🤖 Exploring **AI Integration & NLP**
+* 🚀 Building **Web, Mobile & PWA Applications**
+* 🎨 Improving **Software Architecture & UI/UX**
+* 💡 Working toward building **scalable and useful digital products**
 
 ---
 
 # 💡 What I Like Building
 
-```text
-Web Applications
-        +
-Mobile Applications
-        +
-Artificial Intelligence
-        +
-Creative Digital Products
-        ↓
-   Useful Solutions
-```
+<div align="center">
+
+**Web Applications**
+↓
+**Mobile Applications**
+↓
+**Artificial Intelligence**
+↓
+**Creative Digital Products**
+↓
+
+### Useful Solutions
+
+</div>
 
 ---
 
@@ -251,4 +253,3 @@ Creative Digital Products
 ⭐ Thanks for visiting my profile!
 
 </div>
-```
